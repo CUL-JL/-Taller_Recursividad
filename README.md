@@ -2,7 +2,7 @@
 
 En esta actividad, implementarás varios métodos recursivos en Python y los integrarás en un programa con un menú interactivo para que el usuario pueda ejecutar cada funcionalidad. Aquí se enumeran los ejercicios que debes realizar:
 
-**NOTA:** 
+**NOTA:** Se alteró la ejecución de algunos ejercicios para estos seann más sencillos de entender para el usuario que ejecute el programa. tenga esto en cuenta al momento de revisar el código de los archvos con los nombres **exercise** y su respectivo número.
 
 ### 1. [Contador recursivo](/assets/exercise01.png)
 Crea una función que reciba un número entero positivo `n` y cuente de 1 a `n`, imprimiendo cada número en una línea.
